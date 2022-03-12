@@ -1,4 +1,3 @@
-#!/bin/bash
 #include<stdio.h>
 /**
 * main - print string from main function
@@ -13,4 +12,3 @@ int main(void)
 
 return (0);
 }
-
